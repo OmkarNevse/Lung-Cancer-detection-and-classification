@@ -8,5 +8,5 @@ Lung cancer screening is performed with a CT scan that collects hundreds of imag
 the lung. Next, small growths called pulmonary nodules need to be detected. These nodules show up as small,
 circular structures on the CT scans.
 
-for more information, please refer to Report.pdf file
+for more information, please refer to "Final Report.pdf" file
 
