@@ -6,27 +6,16 @@ Lung cancer screening is performed with a CT scan that collects hundreds of imag
 the lung. Next, small growths called pulmonary nodules need to be detected. These nodules show up as small,
 circular structures on the CT scans.
 
-For Detailed information regarding the project refer to the "Final Report.pdf" file
-
-## Installation
-
-Required packages:
-anaconda3
-Python 3.4
-Tensorflow
-Keras
-dicom, $sudo pip install dicom
-cell_magic_wand.py, is required to be in place of the root directory with the notebooks https://github.com/NoahApthorpe/CellMagicWand
-h5py $sudo pip install h5py
+For Detailed information regarding this project refer to the "Final Report.pdf" file
 
 ## Required Data
-LIDC-IDRI dataset https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
-Images (DICOM, 124GB)
-DICOM Metadata Digest (CSV)
-Nodule Size List http://www.via.cornell.edu/lidc/list3.2.csv
+## LIDC-IDRI dataset https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+ - Images (DICOM, 124GB)
+ - DICOM Metadata Digest (CSV)
+ - Nodule Size List http://www.via.cornell.edu/lidc/list3.2.csv
 
-Kaggle Data Science Bowl 2017 Dataset https://www.kaggle.com/c/data-science-bowl-2017/data
-stage1.7z (DICOM, 67GB)
-stage1_labels.csv.zip
-stage1_solution.csv.zip
-data_password.txt.zip
+## Kaggle Data Science Bowl 2017 Dataset https://www.kaggle.com/c/data-science-bowl-2017/data
+ - stage1.7z (DICOM, 67GB)
+ - stage1_labels.csv.zip
+ - stage1_solution.csv.zip
+ - data_password.txt.zip
