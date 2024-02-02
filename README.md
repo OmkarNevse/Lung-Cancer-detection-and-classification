@@ -20,12 +20,12 @@ cell_magic_wand.py, is required to be in place of the root directory with the no
 h5py $sudo pip install h5py
 
 ## Required Data
-# LIDC-IDRI dataset https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+LIDC-IDRI dataset https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 Images (DICOM, 124GB)
 DICOM Metadata Digest (CSV)
 Nodule Size List http://www.via.cornell.edu/lidc/list3.2.csv
 
-# Kaggle Data Science Bowl 2017 Dataset https://www.kaggle.com/c/data-science-bowl-2017/data
+Kaggle Data Science Bowl 2017 Dataset https://www.kaggle.com/c/data-science-bowl-2017/data
 stage1.7z (DICOM, 67GB)
 stage1_labels.csv.zip
 stage1_solution.csv.zip
